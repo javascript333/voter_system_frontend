@@ -1,0 +1,10 @@
+body{
+    background-image: url(vote.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.heading{
+    background-color: rgb(199, 217, 224) ;
+    opacity: 0.7;
+}
